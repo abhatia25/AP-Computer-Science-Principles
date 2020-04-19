@@ -40,7 +40,7 @@ public class Story {
    }
    
    public static void MoreStory(){
-      System.out.println("You then go and hit on her.");
+      System.out.println("You then go and talk to her.");
       System.out.println("You both have a great time, but it wasn't meant to last. At the end of the night she dumps you.");
       System.out.println("You leave for home, in tears. Along the path, you meet the headless horseman.");
       System.out.println("In fear, you run away, trying to get home safely.");
