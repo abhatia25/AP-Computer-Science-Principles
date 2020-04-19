@@ -4,6 +4,7 @@ but if timer speed is 50 like now, no errors occur but the walls don't work perf
 If I had more time, I would've integrated this more with my program as it's kinda just dropped there right now.
 I wanted to make the score for this add to the main score, but right not pinball has no effect on the outcome of the program
 Also the exit sequences don't work as intended.
+Credit for source code: https://gist.github.com/antimatter15/822345
 */
 import javax.swing.*;
 import java.awt.*;
