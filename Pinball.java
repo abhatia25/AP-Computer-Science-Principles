@@ -12,7 +12,7 @@ import java.awt.event.*;
 import java.lang.Math;
 
 public class Pinball extends JPanel {
-	Timer t = new Timer(50/* change this value to change speed of game */, new Listener()); //instantiate Timer
+	Timer t = new Timer(2/* change this value to change speed of game */, new Listener()); //instantiate Timer
 	int ctr = 0;
 	double G = 0.1; //Gravitational Constant
    //initialize variables
